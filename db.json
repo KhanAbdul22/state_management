@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "author": "J.K.Rowling",
+      "cost": 420
+    },
+    {
+      "id": 2,
+      "author": "tolkien",
+      "title": "lord of the rings",
+      "cost": 200
+    },
+    {
+      "id": 3,
+      "author": "rowling",
+      "title": "potter",
+      "cost": 420
+    }
+  ]
+}
